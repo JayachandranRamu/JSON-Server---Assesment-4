@@ -15,8 +15,7 @@
     "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
     "language": "JavaScript",
     "upvotes": 10,
-    "postedDate": "2023-05-30"
-  },
+    "postedDate": "2023-05-30",
   "answers": [
     {
       "userAvatar": "user_avatar2.png",
@@ -36,6 +35,6 @@
       "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
       "postedDate": "2023-06-01"
     }
-  ]
+  ]}
 ]
   }
