@@ -15,7 +15,7 @@
     "questionTitle": "How to sort an array in JavaScript?",
     "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
     "language": "JavaScript",
-    "upvotes": 10,
+    "upvotes": 12,
     "postedDate": "2023-05-30",
     "answers": [
       {
@@ -58,7 +58,7 @@
     "questionDescription": "Explain Function In Detail.",
     "postedDate": "2023-11-30",
     "language": "Python",
-    "upvotes": 10,
+    "upvotes": 8,
     "answers": [],
     "id": 3
   },
@@ -70,7 +70,7 @@
     "questionDescription": "Explain Variable In Detail.",
     "postedDate": "2023-11-30",
     "language": "Java",
-    "upvotes": 10,
+    "upvotes": 2,
     "answers": [],
     "id": 4
   }
